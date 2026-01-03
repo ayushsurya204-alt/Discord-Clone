@@ -1,0 +1,1 @@
+A Discord UI Clone built primarily using HTML, focusing on recreating the visual layout and structure of the Discord interface. This project is UI-centric and does not include backend or real-time messaging functionality.
